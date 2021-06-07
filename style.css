@@ -1,0 +1,27 @@
+h1{
+  color: blue;
+}
+
+h2{
+  color: green;
+}
+
+h3{
+  color: pink;
+}
+
+p {
+  color: red;
+}
+
+.one{
+  text-decoration: underline;
+  font-family: 'Open Sans', sans-serif;
+  color: orange;
+}
+
+.two{
+  text-decoration: underline;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+}
